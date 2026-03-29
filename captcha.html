@@ -34,28 +34,28 @@
         <div class="mt-8 ">
 
             <div class="grid grid-cols-3 gap-2 ">
-                <img src="row-1-column-1.png.webp" class="w-full h-24 object-cover cursor-pointer">
-                <img src="row-1-column-2.png" class="w-full h-24 object-cover cursor-pointer">
-                 <img src="row-1-column-3.png.webp" class="w-full h-24 object-cover cursor-pointer">
+                <img id="r1n1" src="row-1-column-1.png.webp" class="w-full h-24 object-cover cursor-pointer">
+                <img id="r1n2" src="row-1-column-2.png" class="w-full h-24 object-cover cursor-pointer">
+                 <img id="r1n3" src="row-1-column-3.png.webp" class="w-full h-24 object-cover cursor-pointer">
 
-                <img src="row-2-column-1.png.webp" class="w-full h-24 object-cover cursor-pointer">
-                <img src="row-2-column-2.png.webp" class="w-full h-24 object-cover cursor-pointer">
-                <img src="row-2-column-3.png.webp" class="w-full h-24 object-cover cursor-pointer">
+                <img id="r2n1" src="row-2-column-1.png.webp" class="w-full h-24 object-cover cursor-pointer">
+                <img id="r2n2" src="row-2-column-2.png.webp" class="w-full h-24 object-cover cursor-pointer">
+                <img id="r2n3" src="row-2-column-3.png.webp" class="w-full h-24 object-cover cursor-pointer">
 
-                <img src="row-3-column-1.png.webp" class="w-full h-24 object-cover cursor-pointer">
-                <img src="row-3-column-2.png.webp" class="w-full h-24 object-cover cursor-pointer">
-                <img src="row-3-column-3.png" class="w-full h-24 object-cover cursor-pointer">
+                <img  id="r3n1" src="row-3-column-1.png.webp" class="w-full h-24 object-cover cursor-pointer">
+                <img id="r3n2" src="row-3-column-2.png.webp" class="w-full h-24 object-cover cursor-pointer">
+                <img id="r3n3" src="row-3-column-3.png" class="w-full h-24 object-cover cursor-pointer">
 
             </div>
         </div>
 
         <div class="flex items-center justify-center gap-16">
 
-        <div class="flex items-left justify-start mt-6">
-            <i class="fa-solid fa-check text-white"></i>
+        <div id="check" class="flex items-left justify-start mt-6">
+            <i class="fa-solid fa-check text-white cursor-pointer"></i>
         </div>
-        <div class="flex items-right justify-end mt-6">
-            <i class="fa-solid fa-arrow-rotate-right text-white"></i>
+        <div id="reset" class="flex items-right justify-end mt-6">
+            <i class="fa-solid fa-arrow-rotate-right text-white cursor-pointer"></i>
 
         </div>
         </div>
@@ -71,3 +71,4 @@
     </section>
 
     <script src="data.js" defer></script>
+ </body>
