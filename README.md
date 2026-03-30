@@ -5,11 +5,22 @@ OnlyPirates.com is a quirky and unprofessional website that was created during G
 ## ✨ What motivated us?
 As silly as this website sounds, it is a form of expression art. With OnlyPirates.com we wanted to bring back the annoying laggy russian-doll websites that we used to visit when the Internet was still something uncommon to use. It makes the audience experience the fun in exploring websites with fun and unprofessional themes that lead nowhere but nostalgia. By the end of our website, the 2 minutes you spend on it will make you ask for more content.
 ## 💎 Features
-### ☠ Pirate Captcha
+### ⚓ Pirate Captcha
 Selecting all boxes that have the pirate in them, will determine if you are or are not a robot in our page. So pay attention we are not a robot friendly website.
 ### 💸 Payment Plan
 Like in every website that has free on their profile, we also have our own payment plans. You would never be able to skip selecting a plan.
 ### 📍Pirate's Map
 You have access to a treasure map along the way, so do not miss out.
-### ﾒ Two Endings
+### 🌊 Two Endings
 Depending on how you treat this website, your ending will be different.
+## 🛠️ Tech Stack
+* Language: HTML, JavaScript
+* Framework: TailwindCSS
+* Libraries: Fontawesome
+* Tools: Pixilart
+
+## ﾒ Credits
+This project would not be created without the help and ideas of our team:
+Ana Begaj, Ali Chehab, Izzie Roma and Lucas Hosch.
+
+
